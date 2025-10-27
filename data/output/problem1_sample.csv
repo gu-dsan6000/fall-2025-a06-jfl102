@@ -1,0 +1,11 @@
+log_entry,log_level
+16/04/07 11:42:26 INFO executor.CoarseGrainedExecutorBackend: Registered signal handlers for [TERM, HUP, INT],INFO
+16/04/07 11:42:27 INFO spark.SecurityManager: Changing view acls to: yarn,curi,INFO
+16/04/07 11:42:27 INFO spark.SecurityManager: Changing modify acls to: yarn,curi,INFO
+16/04/07 11:42:27 INFO spark.SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi),INFO
+16/04/07 11:42:28 INFO spark.SecurityManager: Changing view acls to: yarn,curi,INFO
+16/04/07 11:42:28 INFO spark.SecurityManager: Changing modify acls to: yarn,curi,INFO
+16/04/07 11:42:28 INFO spark.SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi),INFO
+16/04/07 11:42:28 INFO slf4j.Slf4jLogger: Slf4jLogger started,INFO
+16/04/07 11:42:28 INFO Remoting: Starting remoting,INFO
+16/04/07 11:42:28 INFO Remoting: Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-05:42783],INFO
